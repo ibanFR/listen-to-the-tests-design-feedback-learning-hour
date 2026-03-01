@@ -36,17 +36,17 @@ collections:
     output: true
 #  how-to:
 #    output: true
-#  reference:
-#    output: true
+  reference:
+    output: true
 
 just_the_docs:
   collections:
     explanation:
       name: Explanation
-#    reference:
-#      name: Reference
 #    how-to:
 #      name: How-To
+    reference:
+      name: Reference
 
 defaults:
   # All regular Jekyll pages
