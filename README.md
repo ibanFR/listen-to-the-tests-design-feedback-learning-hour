@@ -11,4 +11,4 @@ Before you make changes to the code you will want to add some tests for the exis
 This exercise was originally named "Untangled Conditionals Kata" and was designed
 by [Tom Oram](https://github.com/tomphp). [Emily Bache](https://github.com/emilybache) adapted it and created the
 repository [BuildPipeline-Refactoring-Kata](https://github.com/emilybache/BuildPipeline-Refactoring-Kata). This is a
-copy of Emily's source code for practicing the Learning Hour "Listen to the Tests: Design Feedback Learning Hour".
+copy of Emily's source code for practicing the Learning Hour "Listen to the Tests: Design Feedback".
